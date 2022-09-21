@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/OT-Website/static/css/main.284eb48f.css",
+    "main.js": "/OT-Website/static/js/main.0d1b58f4.js",
+    "static/media/service.jpg": "/OT-Website/static/media/service.124f4cd66532550e0e38.jpg",
+    "static/media/professionalism.jpg": "/OT-Website/static/media/professionalism.7d4a2d5323dab74ec8ad.jpg",
+    "static/media/brotherhood.jpg": "/OT-Website/static/media/brotherhood.5701b132b7343d8388eb.jpg",
+    "static/media/Home3.jpg": "/OT-Website/static/media/Home3.858d2af5287f4c9dccc5.jpg",
+    "static/media/Home2.jpg": "/OT-Website/static/media/Home2.da420c73cf2a8be66965.jpg",
+    "static/media/Rush_Poster.png": "/OT-Website/static/media/Rush_Poster.f0ea87442ef697ce75c3.png",
+    "static/media/YX_Resume.pdf": "/OT-Website/static/media/YX_Resume.ea2dcbc82820927e668a.pdf",
+    "static/media/instagram.png": "/OT-Website/static/media/instagram.502f1a45855162babf57.png",
+    "static/media/Home1.jpg": "/OT-Website/static/media/Home1.2167b15bbcbfa4b229f7.jpg",
+    "static/media/GE.png": "/OT-Website/static/media/GE.e944e8d12493b44e7729.png",
+    "static/media/YX_PFP.jpg": "/OT-Website/static/media/YX_PFP.328cfe7dbb601b63932c.jpg",
+    "static/media/GD.png": "/OT-Website/static/media/GD.476470c7c53d2f1ef6fa.png",
+    "static/media/Meta.jpg": "/OT-Website/static/media/Meta.6b7520ec67317730ad92.jpg",
+    "static/media/COA.png": "/OT-Website/static/media/COA.35e08d5037cad5db337c.png",
+    "static/media/Goldman_Sachs.png": "/OT-Website/static/media/Goldman_Sachs.5ddd99c624267cbef0a2.png",
+    "static/media/M&T_Bank.png": "/OT-Website/static/media/M&T_Bank.56c46aebfa205a26f17e.png",
+    "static/media/Eversource.jpg": "/OT-Website/static/media/Eversource.de108d8ecfda41078d74.jpg",
+    "index.html": "/OT-Website/index.html",
+    "main.284eb48f.css.map": "/OT-Website/static/css/main.284eb48f.css.map",
+    "main.0d1b58f4.js.map": "/OT-Website/static/js/main.0d1b58f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284eb48f.css",
+    "static/js/main.0d1b58f4.js"
+  ]
+}
